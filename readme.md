@@ -94,13 +94,13 @@ qed.
 
 <div id="toc">
 
-  <div is="aRb"></div>
+  <aside id="an-aside" is="aRb"></aside>
 
   <div class="patanyms">((patanyms, ...))	readme.md	/^## ((patanyms, ...))$/;" 
   s	chapter:novel code</div>
-  <div class="code ambassador">code ambassador	readme.md	/^## code ambassador$/;"	s	
+  <div class="code-ambassador">code ambassador	readme.md	/^## code ambassador$/;"	s	
   chapter:novel code</div>
-  <div class="code antipaladin">code antipaladin (antinomy)	readme.md	/^## code 
+  <div class="code-antipaladin">code antipaladin (antinomy)	readme.md	/^## code 
   antipaladin (antinomy)$/;"	s	chapter:novel code</div>
   code barbarian (absolute)	readme.md	/^## code barbarian (absolute)$/;"	s	
   chapter:novel code
