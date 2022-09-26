@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/nerdfiles/Projects/novel-code/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+((patanyms, ...))	readme.md	/^## ((patanyms, ...))$/;"	s	chapter:novel code
+code ambassador	readme.md	/^## code ambassador$/;"	s	chapter:novel code
+code antipaladin (antinomy)	readme.md	/^## code antipaladin (antinomy)$/;"	s	chapter:novel code
+code barbarian (absolute)	readme.md	/^## code barbarian (absolute)$/;"	s	chapter:novel code
+code bard (syzygy)	readme.md	/^## code bard (syzygy)$/;"	s	chapter:novel code
+code cleaner	readme.md	/^## code cleaner$/;"	s	chapter:novel code
+code cleric (pataphor)	readme.md	/^## code cleric (pataphor)$/;"	s	chapter:novel code
+code general (absolute)	readme.md	/^## code general (absolute)$/;"	s	chapter:novel code
+code lord	readme.md	/^## code lord$/;"	s	chapter:novel code
+code paladin (antinomy)	readme.md	/^## code paladin (antinomy)$/;"	s	chapter:novel code
+code ranger (syzygy)	readme.md	/^## code ranger (syzygy)$/;"	s	chapter:novel code
+code shaman (pataphor)	readme.md	/^## code shaman (pataphor)$/;"	s	chapter:novel code
+code sorcerer (anomaly)	readme.md	/^## code sorcerer (anomaly)$/;"	s	chapter:novel code
+code thief (absolute)	readme.md	/^## code thief (absolute)$/;"	s	chapter:novel code
+code warlock (anomaly)	readme.md	/^## code warlock (anomaly)$/;"	s	chapter:novel code
+code warrior (clinamen)	readme.md	/^## code warrior (clinamen)$/;"	s	chapter:novel code
+code witch (absolute)	readme.md	/^## code witch (absolute)$/;"	s	chapter:novel code
+code wizard (clinamen)	readme.md	/^## code wizard (clinamen)$/;"	s	chapter:novel code
+codic iconicity	readme.md	/^#### codic iconicity$/;"	t	subsection:novel code""language and linguality""primal codic
+codic nausea	readme.md	/^#### codic nausea$/;"	t	subsection:novel code""language and linguality""primal codic
+codic occasion	readme.md	/^#### codic occasion$/;"	t	subsection:novel code""language and linguality""primal codic
+codic window	readme.md	/^#### codic window$/;"	t	subsection:novel code""language and linguality""primal codic
+language and linguality	readme.md	/^## language and linguality$/;"	s	chapter:novel code
+novel code	readme.md	/^# novel code$/;"	c
+pantheon	readme.md	/^## pantheon$/;"	s	chapter:novel code
+primal codic	readme.md	/^### primal codic$/;"	S	section:novel code""language and linguality
