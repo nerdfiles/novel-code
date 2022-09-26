@@ -94,47 +94,152 @@ qed.
 
 <div id="toc">
 
-  <aside id="an-aside" is="aRb"></aside>
+  <table itemScope itemType="https://schema.org/WPFooter" class="aRh" is="aRj" id="hello-world"></table>
 
-  <div class="patanyms">((patanyms, ...))	readme.md	/^## ((patanyms, ...))$/;" 
-  s	chapter:novel code</div>
-  <div class="code-ambassador">code ambassador	readme.md	/^## code ambassador$/;"	s	
-  chapter:novel code</div>
-  <div class="code-antipaladin">code antipaladin (antinomy)	readme.md	/^## code 
-  antipaladin (antinomy)$/;"	s	chapter:novel code</div>
-  code barbarian (absolute)	readme.md	/^## code barbarian (absolute)$/;"	s	
+  <table itemScope
+         itemType="https://schema.org/WPFooter"
+         class="aRi"
+         is="aRt"
+         id="hello-world-redux"
+  ></table>
+
+  <table itemScope
+         itemType="https://schema.org/WPHeader"
+         class="tabular-header"
+         is="tabularHeader"
+         id="hello-tabular-header"
+  ></table>
+
+  <aside id="an-aside"
+         is="aRb"
+  ></aside>
+
+  <section class="patanyms"
+           id="patanyms"
+  >
+    ((patanyms, ...))	readme.md	/^## ((patanyms, ...))$/;" s	chapter:novel
+    code
+  </section>
+
+  <div class="code-ambassador"
+       id="code-ambassador"
+  >
+    code ambassador	readme.md	/^## code ambassador$/;"	s	chapter:novel code
+  </div>
+
+  <div class="code-antipaladin"
+       id="code-antipaladin"
+  >
+    code antipaladin (antinomy)	readme.md	/^## code antipaladin (antinomy)$/;"	
+    s	chapter:novel code
+  </div>
+
+  <div class="code-barbarian"
+       id="code-barbarian"
+  >code barbarian (absolute)	readme.md	/^## code 
+    barbarian (absolute)$/;"	s chapter:novel code
+  </div>
+
+  <div class="code-bard"
+       id="code-bard"
+  >
+  code bard (syzygy)	readme.md	/^## code bard (syzygy)$/;"	s
   chapter:novel code
-  code bard (syzygy)	readme.md	/^## code bard (syzygy)$/;"	s	chapter:novel 
-  code
-  code cleaner	readme.md	/^## code cleaner$/;"	s	chapter:novel code
-  code cleric (pataphor)	readme.md	/^## code cleric (pataphor)$/;"	s	chapter:
-  novel code
-  code general (absolute)	readme.md	/^## code general (absolute)$/;"	s	chapter:
-  novel code
-  code lord	readme.md	/^## code lord$/;"	s	chapter:novel code
-  code paladin (antinomy)	readme.md	/^## code paladin (antinomy)$/;"	s	chapter:novel code
-  code ranger (syzygy)	readme.md	/^## code ranger (syzygy)$/;"	s	chapter:novel code
-  code shaman (pataphor)	readme.md	/^## code shaman (pataphor)$/;"	s	chapter:novel code
-  code sorcerer (anomaly)	readme.md	/^## code sorcerer (anomaly)$/;"	s	chapter:novel code
-  code thief (absolute)	readme.md	/^## code thief (absolute)$/;"	s	chapter:novel code
-  code warlock (anomaly)	readme.md	/^## code warlock (anomaly)$/;"	s	chapter:novel code
-  code warrior (clinamen)	readme.md	/^## code warrior (clinamen)$/;"	s	chapter:novel code
-  code witch (absolute)	readme.md	/^## code witch (absolute)$/;"	s	chapter:novel code
-  code wizard (clinamen)	readme.md	/^## code wizard (clinamen)$/;"	s	chapter:novel code
-  codic iconicity	readme.md	/^#### codic iconicity$/;"	t	subsection:novel code""language and linguality""primal codic
-  codic nausea	readme.md	/^#### codic nausea$/;"	t	subsection:novel code""language and linguality""primal codic
-  codic occasion	readme.md	/^#### codic occasion$/;"	t	subsection:novel code""language and linguality""primal codic
-  codic window	readme.md	/^#### codic window$/;"	t	subsection:novel code""language and linguality""primal codic
-  language and linguality	readme.md	/^## language and linguality$/;"	s	chapter:novel code
-  novel code	readme.md	/^# novel code$/;"	c
-  pantheon	readme.md	/^## pantheon$/;"	s	chapter:novel code
-  primal codic	readme.md	/^### primal codic$/;"	S	section:novel code""language and linguality
+  </div> 
+
+  <div class="code-cleaner"
+       id="code-cleaner"
+  >
+  code cleaner	readme.md	/^## code cleaner$/;"	s	chapter:novel
+  code (@wip)
+  </div>
+
+  <div class="code-cleric"
+       id="code-cleric"
+  >code cleric (pataphor)	readme.md	/^## code cleric (pataphor)$/;"	s	chapter:
+    novel code
+  </div>
+
+  <div class="code-general"
+       id="code-general"
+  >code general (absolute)	readme.md	/^## code general (absolute)$/;"	s	chapter:
+    novel code
+  </div>
+
+  <div class="code-lord"
+       id="code-lord"
+  >code lord	readme.md	/^## code lord$/;"	s	chapter:novel code</div>
+
+  <div class="code-paladin"
+       id="code-paladin"
+  >code paladin (antinomy)	readme.md	/^## code paladin (antinomy)$/;"	s	
+  chapter:novel code</div>
+
+  <div class="code-ranger"
+       id="code-ranger"
+  >code ranger (syzygy)	readme.md	/^## code ranger (syzygy)$/;"	s	
+  chapter:novel code</div>
+
+  <div class="code-shaman"
+       id="code-shaman"
+  >code shaman (pataphor)	readme.md	/^## code shaman (pataphor)$/;"	s	
+  chapter:novel code</div>
+
+  <div class="code-sorcerer"
+       id="code-sorcerer"
+  >code sorcerer (anomaly)	readme.md	/^## code sorcerer (anomaly)$/;"	s	
+  chapter:novel code</div>
+
+  <div class="code-thief">code thief (absolute)	readme.md	/^## code thief (absolute)$/;"	s	chapter:novel code</div>
+
+  <div class="code-warlock">code warlock (anomaly)	readme.md	/^## code warlock (anomaly)$/;"	s	chapter:novel code</div>
+
+  <div class="code-warrior">code warrior (clinamen)	readme.md	/^## code warrior (clinamen)$/;"	s	chapter:novel code</div>
+
+  <div class="code-witch">code witch (absolute)	readme.md	/^## code witch (absolute)$/;"	s	chapter:novel code</div>
+
+  <div class="code-wizard">code wizard (clinamen)	readme.md	/^## code wizard (clinamen)$/;"	s	chapter:novel code</div>
+
+  <div class="codic-iconicity">codic iconicity	readme.md	/^#### codic iconicity$/;"	t	subsection:novel code""language and linguality""primal codic</div>
+
+  <div class="codic-nausea">codic nausea	readme.md	/^#### codic nausea$/;"	t	subsection:novel code""language and linguality""primal codic</div>
+
+  <div class="codic-occasion">codic occasion	readme.md	/^#### codic occasion$/;"	t	subsection:novel code""language and linguality""primal codic</div>
+
+  <div class="codic-window">codic window	readme.md	/^#### codic window$/;"	t	subsection:novel code""language and linguality""primal codic</div>
+
+  <div class="language-and-linguality">language and linguality	readme.md	/^## language and linguality$/;"	s	chapter:novel code</div>
+
+  <div class="novel-code">novel code	readme.md	/^# novel code$/;"	c</div>
+
+  <div class="pantheon">pantheon	readme.md	/^## pantheon$/;"	s	chapter:novel code</div>
+
+  <div class="primal-codic"
+       id="primal-codic"
+  >primal codic	readme.md	/^### primal codic$/;"	S	section:novel code""language and linguality</div>
+
+  <!--
+
+
+
+
+  (this section has been intentionally left blank.)
+
+
+
+
+
+  -->
 
   <data value="aRc"></data>
   <already-an-identity namespace="aRa"></already-an-identity>
   <object data="tttzzz" type="zzzttt" validity="aRd"></object>
-  <label for="zzzttt" aria-label="aRe"></label>
-  <input type="text" name="aRg" />
+  <label aria-label="aRf" />
+  <label for="zzzttt"
+         aria-label="aRe"></label>
+  <input name="aRq" /> 
+  <input type="text"
+         name="aRg" />
 
   <!--
   --regex-html=/value="([A-Za-z0-9_-]+)"/\1/d,datum,data/
@@ -143,6 +248,19 @@ qed.
   --regex-html=/aria-label="([A-Za-z0-9_-]+)"/\1/t,tag,tags/
   --regex-html=/is="([A-Za-z0-9_-]+)"/\1/v,variable,variables/
   --regex-html=/name="([A-Za-z0-9_-]+)"/\1/s,slot,slots/
+  -->
+
+  <!--
+
+
+
+
+  (this section has been intentionally left blank.)
+
+
+
+
+
   -->
 
 </div>
