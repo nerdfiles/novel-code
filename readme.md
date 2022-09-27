@@ -43,25 +43,40 @@ qualities and dimensions of character development.
 the ontologies of cyberspaces and hyperspace topologies we are
 merely extending the modern d20 system.)
 
-## code cleric (pataphor)
-## code warrior (clinamen)
-## code wizard (clinamen)
-## code ranger (syzygy)
-## code bard (syzygy)
-## code sorcerer (anomaly)
-## code warlock (anomaly)
-## code paladin (antinomy)
-## code antipaladin (antinomy)
-## code barbarian (absolute)
-## code thief (absolute)
-## code witch (absolute)
-## code general (absolute)
-## code shaman (pataphor)
+
+
+## cleric (pataphor)
+## warrior (clinamen)
+## wizard (clinamen)
+## ranger (syzygy)
+## bard (syzygy)
+## sorcerer (anomaly)
+## warlock (anomaly)
+## paladin (antinomy)
+## barbarian (absolute)
+## thief (absolute)
+## witch (absolute)
+## general (absolute)
+## shaman (pataphor)
 ## ((patanyms, ...))
 
-## code cleaner
-## code lord
-## code ambassador
+## cleaner
+## repo slayer
+## codist
+## codic hunter
+## codic mercenary
+## codic antipaladin
+## codic artist
+## high code
+## codic specialist
+## codemind
+## echoic code
+## epochic code
+## tribal code
+## pragmatic code
+## royal code
+## ironic code
+## undead code
 
 ## pantheon
 
