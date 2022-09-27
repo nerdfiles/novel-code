@@ -46,99 +46,139 @@ merely extending the modern d20 system.)
 ## classes
 
 ### cleric (pataphor)
-### warrior (clinamen)
-### wizard (clinamen)
-### ranger (syzygy)
-### bard (syzygy)
-### sorcerer (anomaly)
-### warlock (anomaly)
+
 ### paladin (antinomy)
+
+### wizard (clinamen)
+
+### warlock (anomaly)
+
+### druid (absolute)
+
+### ranger (syzygy)
+
+### bard (syzygy)
+
+### sorcerer (anomaly)
+
 ### barbarian (absolute)
-### thief (absolute)
-### witch (absolute)
+
+### warrior (clinamen)
+
 ### general (absolute)
+
+### witch (absolute)
+
 ### shaman (pataphor)
+
+### thief (absolute)
+
 ### ((patanyms, ...))
 
 ## complex code
 
 #### cleaner
+
 #### repo slayer
+
 #### codist
+
 #### codic hunter
+
 #### codic mercenary
+
 #### codic antipaladin
+
 #### codic artist
+
 #### high code
+
 #### codic specialist
+
 #### codemind
+
 #### echoic code
+
 #### epochic code
+
 #### tribal code
+
 #### pragmatic code
+
 #### royal code
+
 #### ironic code
+
 #### undead code
+
 #### undercode
+
 #### precode
 
-## pantheon
+## patatheon
+
+*nomodicy, monodicy, monology, nomogony, holodicy, monogony, monogonicity,
+holology, nomogoncity*
 
 ## language and linguality
 
-#### machinic unconscious necessitation
+### machinic unconscious necessitation
 
-#### subjective unconscious heterogenesis
+### subjective unconscious heterogenesis
 
-#### material unconscious singularization
+### material unconscious singularization
 
-#### territorial unconscious irreversibilization
+### territorial unconscious irreversibilization
 
-#### machinic unconscious specializability
+### machinic unconscious specializability
 
-#### subjective unconscious concretizability
+### subjective unconscious concretizability
 
 ...
 
-### primal codic
+## primal codic
 
-#### holoentropic code 
+### holoentropic code 
 
-#### codic iconicity
+### codic iconicity
 
-#### codic nausea
+### codic nausea
 
-#### codic occasion
+### codic occasion
 
-#### codic window
+### codic window
 
-#### clinamental code
+### clinamental code
 
-#### absolute code
+### absolute code
 
-#### anomalous code
+### anomalous code
 
-#### dialectical (antinomous) code
+### dialectical (antinomous) code
 
-#### differential code
+### differential code
 
-#### continuous code
+### continuous code
 
-#### generic code
+### generic code
 
-#### pataphoric code
+### pataphoric code
 
-#### seraphic code
+### seraphic code
 
-#### alephantic code
+### alephantic code
 
-#### hierophantic code
+### hierophantic code
 
-#### hermaneutic code
+### hermaneutic code
 
-#### syzygetic code
+### syzygetic code
 
-#### dramaturgic code
+### dramaturgic code
+
+## peerless logic
+
+### non-modalism (non-standard modalism) and system noneism
 
 some might see code's ontological status and its social status as one and the 
 same. i would myself hearken back to a spinozistic stance, but it would 
