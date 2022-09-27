@@ -43,46 +43,66 @@ qualities and dimensions of character development.
 the ontologies of cyberspaces and hyperspace topologies we are
 merely extending the modern d20 system.)
 
+## classes
 
+### cleric (pataphor)
+### warrior (clinamen)
+### wizard (clinamen)
+### ranger (syzygy)
+### bard (syzygy)
+### sorcerer (anomaly)
+### warlock (anomaly)
+### paladin (antinomy)
+### barbarian (absolute)
+### thief (absolute)
+### witch (absolute)
+### general (absolute)
+### shaman (pataphor)
+### ((patanyms, ...))
 
-## cleric (pataphor)
-## warrior (clinamen)
-## wizard (clinamen)
-## ranger (syzygy)
-## bard (syzygy)
-## sorcerer (anomaly)
-## warlock (anomaly)
-## paladin (antinomy)
-## barbarian (absolute)
-## thief (absolute)
-## witch (absolute)
-## general (absolute)
-## shaman (pataphor)
-## ((patanyms, ...))
+## complex code
 
-## cleaner
-## repo slayer
-## codist
-## codic hunter
-## codic mercenary
-## codic antipaladin
-## codic artist
-## high code
-## codic specialist
-## codemind
-## echoic code
-## epochic code
-## tribal code
-## pragmatic code
-## royal code
-## ironic code
-## undead code
+#### cleaner
+#### repo slayer
+#### codist
+#### codic hunter
+#### codic mercenary
+#### codic antipaladin
+#### codic artist
+#### high code
+#### codic specialist
+#### codemind
+#### echoic code
+#### epochic code
+#### tribal code
+#### pragmatic code
+#### royal code
+#### ironic code
+#### undead code
+#### undercode
+#### precode
 
 ## pantheon
 
 ## language and linguality
 
+#### machinic unconscious necessitation
+
+#### subjective unconscious heterogenesis
+
+#### material unconscious singularization
+
+#### territorial unconscious irreversibilization
+
+#### machinic unconscious specializability
+
+#### subjective unconscious concretizability
+
+...
+
 ### primal codic
+
+#### holoentropic code 
 
 #### codic iconicity
 
@@ -91,6 +111,34 @@ merely extending the modern d20 system.)
 #### codic occasion
 
 #### codic window
+
+#### clinamental code
+
+#### absolute code
+
+#### anomalous code
+
+#### dialectical (antinomous) code
+
+#### differential code
+
+#### continuous code
+
+#### generic code
+
+#### pataphoric code
+
+#### seraphic code
+
+#### alephantic code
+
+#### hierophantic code
+
+#### hermaneutic code
+
+#### syzygetic code
+
+#### dramaturgic code
 
 some might see code's ontological status and its social status as one and the 
 same. i would myself hearken back to a spinozistic stance, but it would 
